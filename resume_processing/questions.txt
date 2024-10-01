@@ -1,0 +1,5 @@
+- **Technical Skills:** Describe your experience with Django and ReactJS, and how you have utilized these technologies in your projects.
+- **Problem-Solving:** Explain how you approached the challenge of integrating LLMs and NLP models into Django in your internship at Systematrix Solutions.
+- **Project Management:** Discuss the process you followed to develop the NGOFinder Android app, including the challenges you faced and how you overcame them.
+- **Teamwork and Collaboration:** Describe your experience working in a team environment, and how you contributed to the success of your projects.
+- **Continuous Learning:** How do you stay up-to-date with the latest advancements in software development, and what are some recent technologies or techniques that you are interested in exploring?
